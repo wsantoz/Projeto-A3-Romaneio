@@ -1,0 +1,41 @@
+﻿fazenda_id;nome_fazenda;produtor;cidade;estado;classe_cadastrada;preco_litro
+F001;Sitio Aurora I;Lucia Moreira;Betim;MG;convencional;2,18
+F002;Fazenda Sao Jose I;Marcos Tavares;Igarape;MG;organico;3,06
+F003;Sitio Boa Vista I;Neusa Camargo;Mateus Leme;MG;organico;2,94
+F004;Fazenda Santa Rita I;Osvaldo Pinto;Juatuba;MG;bufala;3,76
+F005;Sitio das Palmeiras I;Pedro Vilela;Para de Minas;MG;bufala;3,68
+F006;Fazenda Recanto I;Quiteria Bueno;Itauna;MG;convencional;2,33
+F007;Sitio Bela Vista I;Rubens Salgado;Divinopolis;MG;convencional;2,41
+F008;Fazenda Tres Barras I;Sonia Marques;Bom Despacho;MG;convencional;2,29
+F009;Sitio Agua Limpa I;Tiago Ferraz;Pitangui;MG;organico;2,91
+F010;Fazenda Monte Alegre I;Ubirajara Lima;Rio Verde;GO;organico;3,08
+F011;Sitio do Vale I;Vanda Coutinho;Jatai;GO;organico;3,16
+F012;Fazenda Santo Antonio I;Wilson Barreto;Catalao;GO;convencional;2,49
+F013;Sitio Primavera I;Ximena Duarte;Betim;MG;organico;3,02
+F014;Fazenda Boa Esperanca I;Yara Pontes;Igarape;MG;bufala;3,69
+F015;Sitio Sao Pedro I;Zilda Guimaraes;Mateus Leme;MG;convencional;2,15
+F016;Fazenda Cachoeira I;Anselmo Cruz;Juatuba;MG;organico;2,61
+F017;Sitio Alto da Serra I;Bianca Toledo;Para de Minas;MG;convencional;2,33
+F018;Fazenda Nossa Senhora I;Cesar Rocha;Itauna;MG;organico;3,08
+F019;Sitio Campo Verde I;Denise Amaral;Divinopolis;MG;convencional;2,46
+F020;Fazenda Rio Claro I;Elias Monteiro;Bom Despacho;MG;convencional;2,49
+F021;Sitio Aurora II;Fernanda Braga;Pitangui;MG;organico;3,17
+F022;Fazenda Sao Jose II;Gilson Teixeira;Rio Verde;GO;organico;3,07
+F023;Sitio Boa Vista II;Heloisa Vieira;Jatai;GO;convencional;2,25
+F024;Fazenda Santa Rita II;Ivo Sampaio;Catalao;GO;convencional;2,06
+F025;Sitio das Palmeiras II;Julia Cordeiro;Betim;MG;convencional;2,65
+F026;Fazenda Recanto II;Lauro Freitas;Igarape;MG;organico;2,84
+F027;Sitio Bela Vista II;Marta Bezerra;Mateus Leme;MG;organico;2,72
+F028;Fazenda Tres Barras II;Nelson Aguiar;Juatuba;MG;convencional;2,43
+F029;Sitio Agua Limpa II;Olivia Passos;Para de Minas;MG;bufala;3,87
+F030;Fazenda Monte Alegre II;Paulo Estevao;Itauna;MG;convencional;2,22
+F031;Sitio do Vale II;Regina Caldeira;Divinopolis;MG;convencional;2,18
+F032;Fazenda Santo Antonio II;Sergio Batista;Bom Despacho;MG;convencional;2,28
+F033;Sitio Primavera II;Tania Lemos;Pitangui;MG;organico;3,19
+F034;Fazenda Boa Esperanca II;Valter Bicalho;Rio Verde;GO;convencional;2,40
+F035;Sitio Sao Pedro II;Adalberto Ribeiro;Jatai;GO;organico;3,05
+F036;Fazenda Cachoeira II;Benedita Alves;Catalao;GO;convencional;2,14
+F037;Sitio Alto da Serra II;Carlos Nogueira;Betim;MG;convencional;2,31
+F038;Fazenda Nossa Senhora II;Dirce Fonseca;Igarape;MG;bufala;3,77
+F039;Sitio Campo Verde II;Edmilson Prado;Mateus Leme;MG;organico;3,03
+F040;Fazenda Rio Claro II;Fatima Rezende;Juatuba;MG;organico;2,83
