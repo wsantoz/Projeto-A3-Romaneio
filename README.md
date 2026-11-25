@@ -41,15 +41,30 @@ Seis meses de dados fictícios (01/09/2025 a 28/02/2026): 40 fazendas e 1.092 co
 |---|---|
 | [relatorio.md](relatorio.md) | Relatório em PDCA: problema, Ishikawa, SWOT, requisitos, diagramas e painel |
 | [diagramas/](diagramas/) | Ishikawa, casos de uso e classes (imagens) |
-| relatorio.pbix | Painel feito no Power BI Desktop |
+| relatorio.pbix | Painel feito no Power BI Desktop, com 2 páginas e 13 visuais |
 | relatorio.pdf | O mesmo painel exportado, para quem não tem o Power BI |
 | [base/](base/) | Arquivos de dados: `fazendas.csv` e `romaneio.csv` |
 | mascote.png | A Malu |
 
-## Como ver o painel
+## O painel
+
+O painel usa as duas tabelas de `base/` ligadas pela coluna `fazenda_id`. Tem 2 páginas:
+
+- **Painel (página 1):** coletas, litros, litros com problema, coletas com classe diferente do cadastro, ocorrências por rota, distribuição por status, tendência mensal e as fazendas com mais ocorrências.
+- **Detalhes (página 2):** ocorrências por motorista, por silo e por motivo, as fazendas com mais ocorrências e a matriz de classe cadastrada contra classe coletada.
+
+### O que o painel mostra
+
+- 64 das 1.092 coletas (5,9%) tiveram problema: 36 bloqueadas e 28 liberadas com rebaixamento.
+- Foram 89.230 litros descartados ou rebaixados em seis meses.
+- 28 coletas chegaram com classe diferente da classe cadastrada.
+- A rota R2 concentra 29 das 64 ocorrências.
+- As fazendas Três Barras II e Água Limpa II têm 5 ocorrências cada.
+
+### Como ver
 
 - **Sem o Power BI:** abra o `relatorio.pdf`.
-- **Com o Power BI Desktop:** abra o `relatorio.pbix`. As duas tabelas de `base/` já estão ligadas pela coluna `fazenda_id`.
+- **Com o Power BI Desktop:** abra o `relatorio.pbix`.
 
 ## Integrantes
 

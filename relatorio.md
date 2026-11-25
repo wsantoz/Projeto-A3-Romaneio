@@ -141,7 +141,7 @@ Prêmio perdido em reais (litros rebaixados vezes a diferença de preço): **[co
 
 **O que o painel mostra até aqui:** cerca de 5,9% das coletas (64 de 1.092) terminaram bloqueadas ou rebaixadas, somando 89.230 litros. Em 28 coletas a classe coletada era diferente da classe cadastrada. Os números por motorista não provam culpa, já que a rota e o tipo de fazenda também pesam.
 
-> **Falta fazer:** montar o `relatorio.pbix`, exportar o `relatorio.pdf` e conferir que os valores do painel batem com a tabela acima.
+> **Painel pronto:** o `relatorio.pbix` e o `relatorio.pdf` têm 2 páginas e 13 visuais, e os valores conferem com a tabela acima.
 
 ---
 
